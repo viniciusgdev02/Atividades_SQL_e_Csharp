@@ -9,7 +9,7 @@ Os exercícios foram divididos em duas partes (5 para cada integrante):
 - **Parte 1** - Exercícios 1 a 5
 - **Parte 2** - Exercícios 6 a 10
 
-> Integrantes: ____________________ (Parte 1) e ____________________ (Parte 2)
+> Integrantes: Vinicius Costa (Parte 1) e Vitoria Silva (Parte 2)
 
 ## Exercícios
 
